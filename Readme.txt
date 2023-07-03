@@ -1,0 +1,2 @@
+-Ouvrir index.php.
+-N'oublier pas d'activer XAMPP (Apache et MySQL).
